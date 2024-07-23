@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+sahi 
+torch
+
+--extra-index-url https://pypi.nvidia.com
+tensorrt
